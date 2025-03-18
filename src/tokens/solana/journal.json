@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "8TypDBvSgAr1y3HxFM7dB7nVMRShP3sLi7716dC9pump",
+  "symbol": "JOURNAL",
+  "name": "memejournal",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/memejournal/token-list/main/assets/mainnet/8TypDBvSgAr1y3HxFM7dB7nVMRShP3sLi7716dC9pump/logo.png",
+  "tags": ["meme", "defi"]
+}
